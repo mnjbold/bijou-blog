@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Block private/admin areas (none currently)
+Disallow: /.git/
+Disallow: /scripts/
+
+# Sitemaps
+Sitemap: https://bijou-blog.netlify.app/sitemap.xml
+
+# RSS Feed
+# https://bijou-blog.netlify.app/feed.xml
+
+# Crawl-delay (optional, be kind to small servers)
+Crawl-delay: 1
