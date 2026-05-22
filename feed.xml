@@ -103,5 +103,14 @@
     <pubDate>Fri, 22 May 2026 14:02:25 +0000</pubDate>
     <enclosure url="https://res.cloudinary.com/demo/image/upload/placeholder.jpg" type="image/jpeg" length="0"/>
   </item>
+  <item>
+    <title>n8n GitHub Repository</title>
+    <link>https://bijou-blog.netlify.app/posts/ai-news-curator-n8n/</link>
+    <guid isPermaLink="true">https://bijou-blog.netlify.app/posts/ai-news-curator-n8n/</guid>
+    <description>What You&apos;ll Build An automated news curator that monitors RSS feeds from your favorite sources, uses an LLM to score and summarize each article for relevance, then delivers a…</description>
+    <category>blueprint</category>
+    <pubDate>Fri, 22 May 2026 14:02:32 +0000</pubDate>
+    <enclosure url="https://res.cloudinary.com/demo/image/upload/placeholder.jpg" type="image/jpeg" length="0"/>
+  </item>
 </channel>
 </rss>
