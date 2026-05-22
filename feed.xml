@@ -85,5 +85,14 @@
     <pubDate>Fri, 22 May 2026 14:02:14 +0000</pubDate>
     <enclosure url="https://res.cloudinary.com/demo/image/upload/placeholder.jpg" type="image/jpeg" length="0"/>
   </item>
+  <item>
+    <title>CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs (arXiv)</title>
+    <link>https://bijou-blog.netlify.app/posts/coda-transformer-gemm-epilogue/</link>
+    <guid isPermaLink="true">https://bijou-blog.netlify.app/posts/coda-transformer-gemm-epilogue/</guid>
+    <description>Transformer training is hitting a memory wall, and a new paper from a team of researchers introduces CODA — a GPU kernel abstraction that fuses nearly all non-attention operations…</description>
+    <category>news</category>
+    <pubDate>Fri, 22 May 2026 14:02:19 +0000</pubDate>
+    <enclosure url="https://res.cloudinary.com/demo/image/upload/placeholder.jpg" type="image/jpeg" length="0"/>
+  </item>
 </channel>
 </rss>
