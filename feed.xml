@@ -76,5 +76,14 @@
       <enclosure url="https://source.unsplash.com/1200x630/?kuala-lumpur,malaysia,skyline" type="image/jpeg" length="0"/>
     </item>
 
-  </channel>
+    <item>
+    <title>MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems</title>
+    <link>https://bijou-blog.netlify.app/posts/coda-gemm-epilogue-transformers/</link>
+    <guid isPermaLink="true">https://bijou-blog.netlify.app/posts/coda-gemm-epilogue-transformers/</guid>
+    <description>Transformer training is dominated by GEMMs general matrix multiplications, but that doesn&apos;t mean GEMMs are the bottleneck. If you&apos;ve ever profiled a training run, you&apos;ve seen the…</description>
+    <category>deep-dive</category>
+    <pubDate>Fri, 22 May 2026 14:02:14 +0000</pubDate>
+    <enclosure url="https://res.cloudinary.com/demo/image/upload/placeholder.jpg" type="image/jpeg" length="0"/>
+  </item>
+</channel>
 </rss>
