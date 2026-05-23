@@ -1,6 +1,13 @@
 [build]
   publish = "/"
 
+# SPA rewrite for copilotkit-demo subdirectory
+[[redirects]]
+  from = "/copilotkit-demo/*"
+  to = "/copilotkit-demo/index.html"
+  status = 200
+
+# SPA rewrite for all other paths (blog)
 [[redirects]]
   from = "/*"
   to = "/index.html"
