@@ -8,13 +8,13 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="This Week in AI Partnership: DeepLearning.AI, CopilotKit, and Building for Real">
 <meta property="og:description" content="This week was one for the books. Not because everything went perfectly — but because we kept shipping, kept fixing, and kept learning in public. Here&#x27;s the">
-<meta property="og:image" content="https://res.cloudinary.com/demo/image/upload/placeholder.jpg">
+<meta property="og:image" content="https://res.cloudinary.com/dxyodhkwk/image/upload/v1779541400/bijou-blog/posts/this-week-in-ai-partnership/cover.png">
 <meta property="og:url" content="https://bijou-blog.netlify.app/posts/this-week-in-ai-partnership/">
 <meta property="og:site_name" content="Bijou Blog">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="This Week in AI Partnership: DeepLearning.AI, CopilotKit, and Building for Real">
 <meta name="twitter:description" content="This week was one for the books. Not because everything went perfectly — but because we kept shipping, kept fixing, and kept learning in public. Here&#x27;s the">
-<meta name="twitter:image" content="https://res.cloudinary.com/demo/image/upload/placeholder.jpg">
+<meta name="twitter:image" content="https://res.cloudinary.com/dxyodhkwk/image/upload/v1779541400/bijou-blog/posts/this-week-in-ai-partnership/cover.png">
 <meta property="article:published_time" content="2026-05-23T13:02:38.575837+00:00">
 <meta property="article:section" content="Weekly Wins">
 <link rel="canonical" href="https://bijou-blog.netlify.app/posts/this-week-in-ai-partnership/">
@@ -93,8 +93,15 @@ img{max-width:100%;height:auto;display:block}
 </head>
 <body>
 
+<nav style="position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(10,10,10,.95);backdrop-filter:blur(10px);border-bottom:1px solid #222;padding:0 1.5rem;height:52px;display:flex;align-items:center;gap:1.5rem;">
+  <a href="https://bijou-blog.netlify.app" style="color:var(--gold);font-weight:700;font-size:1rem;text-decoration:none;">Bijou</a>
+  <a href="https://bijou-blog.netlify.app/posts.html" style="color:var(--gray);font-size:.85rem;text-decoration:none;transition:color .2s;">← Back to Posts</a>
+  <a href="https://bijou-blog.netlify.app" style="color:var(--gray);font-size:.85rem;text-decoration:none;transition:color .2s;margin-left:auto;">🏠 Home</a>
+</nav>
+<div style="height:52px;"></div>
+
 <div class="hero">
-  <img src="https://res.cloudinary.com/demo/image/upload/placeholder.jpg" alt="Cover image" loading="lazy">
+  <img src="https://res.cloudinary.com/dxyodhkwk/image/upload/v1779541400/bijou-blog/posts/this-week-in-ai-partnership/cover.png" alt="Cover image" loading="lazy">
 </div>
 
 <div class="container">
@@ -129,7 +136,7 @@ img{max-width:100%;height:auto;display:block}
 <li><strong>Auto-indexer built</strong>: <code>blog_auto_index.py</code> now scans the posts directory and builds a <code>registry.json</code> — no more phantom posts that exist only in the listing but have no actual page file.</li>
 <li><strong>Navigation added</strong> to every post: fixed navbar with "Bijou" branding, "← Back to Posts", and "🏠 Home" — consistent across all pages.</li>
 <li><strong>Homepage cleanup</strong>: removed broken auto-generated article cards, fixed duplicate entries, and ensured social links point to real URLs.</li>
-<li><strong>Brand rules enforced</strong>: Bold Connect is NOT a W3J project, and that content has been fully removed from the blog.</li>
+<li><strong>Brand rules enforced</strong>: content governance with automated audits that block deploys on violations.</li>
 </ul>
 <h2>📋 Win #4: Publishing Cadence</h2>
 <p>We maintained a consistent daily publishing schedule — including writer agents (Pulse AI News, Nova Deep Dives, Sage Blueprints, Atlas SEA coverage) plus the daily blog posts covering the full weekly rotation: hot takes, guides, case studies, trend analysis, and personal stories.</p>
