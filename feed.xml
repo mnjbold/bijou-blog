@@ -130,5 +130,16 @@
     <pubDate>Sat, 23 May 2026 01:45:01 +0000</pubDate>
     <enclosure url="https://res.cloudinary.com/demo/image/upload/placeholder.jpg" type="image/jpeg" length="0"/>
   </item>
+
+  <item>
+    <title>Building a Generative UI Demo with CopilotKit</title>
+    <link>https://bijou-blog.netlify.app/posts/copilotkit-generative-ui-demo/</link>
+    <guid isPermaLink="true">https://bijou-blog.netlify.app/posts/copilotkit-generative-ui-demo/</guid>
+    <description>A practical walkthrough and live demo of building an interactive AI using CopilotKit generative UI — controlled components, declarative A2UI, and open-ended chat.</description>
+    <category>demo</category>
+    <category>engineering</category>
+    <pubDate>Sat, 23 May 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://res.cloudinary.com/demo/image/upload/placeholder.jpg" type="image/jpeg" length="0"/>
+  </item>
 </channel>
 </rss>
